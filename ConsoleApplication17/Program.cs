@@ -10,7 +10,7 @@ namespace ConsoleApplication17
     {
         static void Main(string[] args)
         {
-            Console.ReadLine();
+            string s =Console.ReadLine();
         }
     }
 }
